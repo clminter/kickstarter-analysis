@@ -11,7 +11,7 @@ Kickstarter Campaigns focusing on theatre and musical productions throughout the
 ## Results
 Projects launched in the month of May had the highest rate of success, while projects launched later in the summer, through the fall show a steady decline over these months until December when the failure rate and the success rate are nearly equally poor.
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/81878169/116835460-3a7b6780-ab88-11eb-94bb-12dc1c0b7440.png)
+![Outcomes Based on Goal](https://user-images.githubusercontent.com/81878169/116912983-8c66d080-ac0e-11eb-98b4-cb531d0acba5.png)
 ## Results
 Since no projects from this data set where canceled, successful and failed projects are inversely proportional. Success and failure are equally likely at several goal points: ~17000,~35000, and ~44000. Further investigation is needed to fully understand this convergence and divergence at these price points.
 # Summary
